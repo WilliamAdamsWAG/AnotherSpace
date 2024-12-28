@@ -22,6 +22,9 @@ def caesar_cipher(text: str, shift: int) -> str:
         'Khoor, Zruog!'
     """
 
+    if not isinstance(shift, int):
+        raise ValueError("Shift must be an integer.")
+
     encrypted_text = ""
 
     for char in text:
