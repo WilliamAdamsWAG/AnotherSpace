@@ -1,0 +1,9 @@
+LICENCE
+README.md
+pyproject.toml
+src/ASpace/__init__.py
+src/ASpace.egg-info/PKG-INFO
+src/ASpace.egg-info/SOURCES.txt
+src/ASpace.egg-info/dependency_links.txt
+src/ASpace.egg-info/top_level.txt
+src/ASpace/Encrypter/__init__.py
