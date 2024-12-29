@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "AnotherSpace"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
   { name="William Adams", email="williamadams.aurora@gmail.com" },
 ]
